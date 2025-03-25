@@ -79,6 +79,10 @@
         font-size: 3.2rem;
     }
 
+    .company-name {
+        font-size:3rem
+    }
+
 }
 
 @media (max-width:29.375em) {
